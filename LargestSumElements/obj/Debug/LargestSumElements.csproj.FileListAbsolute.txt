@@ -1,0 +1,7 @@
+C:\Andres\LargestSumElements\bin\Debug\LargestSumElements.exe.config
+C:\Andres\LargestSumElements\bin\Debug\LargestSumElements.exe
+C:\Andres\LargestSumElements\bin\Debug\LargestSumElements.pdb
+C:\Andres\LargestSumElements\obj\Debug\LargestSumElements.csprojAssemblyReference.cache
+C:\Andres\LargestSumElements\obj\Debug\LargestSumElements.csproj.CoreCompileInputs.cache
+C:\Andres\LargestSumElements\obj\Debug\LargestSumElements.exe
+C:\Andres\LargestSumElements\obj\Debug\LargestSumElements.pdb
